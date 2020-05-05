@@ -763,6 +763,7 @@ Projects
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Addon-operator](https://github.com/flant/addon-operator) - adds hooks and values to helm charts in order to enhance the capabilities of helm and transform charts into smart modules that configure themselves and respond to changes in the cluster.
 * [Shell-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
+* [Redis Enterprise](https://docs.redislabs.com/latest/platforms/kubernetes/kubernetes-with-operator/)
 
 ## Custom Schedulers
 
@@ -801,6 +802,9 @@ Projects
 * [RDS](https://github.com/sorenmat/k8s-rds) - Provision RDS databases via CRD from Kubernetes
 * [Vitess](http://vitess.io/) - Horizontal scaling of MySql by Youtube
 * [YugabyteDB](https://docs.yugabyte.com/latest/deploy/kubernetes/) - Horizontally scalable, Postgres-compatible SQL database.
+* [Redis Enterprise](https://docs.redislabs.com/latest/platforms/kubernetes/)
+
+
 
 ## Networking
 
